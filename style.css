@@ -134,3 +134,42 @@ font-weight: bold;
 .service-left-container{
     width: 50%;
 }
+/* appoinment section */
+.appoinment-section{
+    display: flex;
+    width: 70%;
+    background-color: red;
+    padding: 10px;
+    color: #fff;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: -70px;
+    justify-content: center;
+    align-items: center;
+}
+.phone-call{
+    display: flex;
+    justify-content: center;
+    border-right: 1px solid gray;
+}
+.number-1{
+    font-size: 15px;
+    padding: 5px;
+}
+.number{
+    font-size: 40px;
+}
+
+.call{
+    width: 90px;
+    padding: 20px;
+    
+}
+.app-description{
+    width: 70%;
+    padding: 10px 15px;
+}
+.make{
+    border-radius: 25px;
+    padding: 10px 30px;
+}
