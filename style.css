@@ -67,6 +67,7 @@
     height: 100vh;
     color: #fff;
     padding: 20px;
+    display: flex;
 }
 .button{
     color: #9c9fa0;
@@ -105,4 +106,31 @@ font-weight: bold;
 .button-more {
     padding: 20px;
    
+}
+.service-1{
+    background-color: #fff;
+    padding: 50px;
+    box-shadow: 4px 4px 8px gray;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    color:black;
+    border-radius: 10px;
+    margin: 5px;
+}
+.service-logo{
+    width: 50%;
+    padding-bottom: 10px;
+}
+.service-up{
+    display: flex;
+}
+.service-down{
+    display: flex;
+}
+.service-right-container{
+    display: flex;
+}
+.service-left-container{
+    width: 50%;
 }
